@@ -1,0 +1,56 @@
+.team-details-heading {
+  background-image: url("../../images/stadium.jpg");
+  height: 250px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.7;
+}
+.header-img {
+  margin: auto;
+  text-align: center;
+}
+.header-img img {
+  height: 180px;
+  margin-top: 10px;
+}
+.team-details-content {
+  display: flex;
+  align-items: center;
+  background-color: rgba(28, 20, 34, 0.911);
+  padding-left: 40px;
+  padding-right: 40px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.half-details {
+  width: 50%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+}
+.half-details h2 {
+  color: rgb(165, 224, 224);
+  letter-spacing: 4px;
+  font-size: 45px;
+}
+.half-details img {
+  height: 200px;
+}
+.details-part {
+  background-color: rgba(32, 11, 11, 0.924);
+}
+.team-details-description {
+  padding: 40px;
+  color: white;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+}
+.footer-item {
+  text-align: center;
+}
+.footer-item img {
+  height: 80px;
+  width: auto;
+  margin-bottom: 40px;
+}
