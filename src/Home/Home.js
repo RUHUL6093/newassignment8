@@ -18,7 +18,7 @@ const Home = () => {
     <>
       <div>
         <div className="container banner-img ">
-          <h1>Football Team Summary</h1>
+          <h1>Football Team Selection</h1>
         </div>
       </div>
       <div>
